@@ -1,4 +1,4 @@
-git clone https://github.com/dimasdim/haha
+git clone https://github.com/invisibelteam/haha
 
 cd haha
 
